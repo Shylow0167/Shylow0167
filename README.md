@@ -2,7 +2,7 @@
 
 🎯 Aspiring Cybersecurity Analyst | CS50x Student | Self-Taught & Hands-On Learner
 
-I'm on a mission to break into cybersecurity from the ground up — no degree, no debt — just consistent learning, smart planning, and hands-on skills.
+I'm on a mission to break into cybersecurity from the ground up — no degree, no debt — just consistent learning and hands-on skills.
 
 ---
 
